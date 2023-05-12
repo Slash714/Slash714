@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slash714
 - 👀 I’m interested in coding and music.
-- 🌱 I’m currently learning how to use Unity and Javascript
+- 🌱 I’m currently learning about web development including node.js and Mongodb, etc
 - 💞️ I’m looking to collaborate on different video games
 - 📫 How to reach me: happygamesxd92@gmail.com
 
