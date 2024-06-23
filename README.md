@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Slash714
 - 👀 I’m interested in coding and music.
-- 🌱 I’m currently learning about web development including node.js and Mongodb, etc
+- 🌱 I’m currently learning computer science at Portland Community College
 - 💞️ I’m looking to collaborate on different video games
-- 📫 How to reach me: happygamesxd92@gmail.com
+- 📫 How to reach me: gageempey@gmail.com
 
 <!---
 Slash714/Slash714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
